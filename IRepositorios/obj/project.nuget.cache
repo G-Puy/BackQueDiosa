@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i0zOqE0WCg1h1AdwLSRE2Wnz8B18Ieoc7kkDpIAzMFMAHUshHVNqd5vTdakmoL/kTAnACN17b0cFEhI0QN0m0w==",
+  "dgSpecHash": "WLxPtHj/4Q2mT9D5icZsedOA+Ajplcvy6KldDAkDCGP7fpbItVHz8QtIeO2Qa4Ssxf3WDeX7ucj4GBd6S+3JNQ==",
   "success": true,
-  "projectFilePath": "C:\\Integrador\\QuediosaBack\\IRepositorios\\IRepositorios.csproj",
+  "projectFilePath": "C:\\Integrador\\QuediosaBack\\BackQueDiosa\\IRepositorios\\IRepositorios.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

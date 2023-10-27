@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/8CVB3wpzeLIr++yCxHVmYymoLOm14e5mFTCj1VPiRGH6PJ3zKJUmNXua1Wfwu2wdh+N1wJ2NS9gvUcpB0I8RA==",
+  "dgSpecHash": "F4VCAG4mihI7eiy20b3mk/42hlcGICLCeoXtzoF2Y9RHJUQzogkgLObRBA752DoxINoD6C25bSa8J1jR+9Zg2A==",
   "success": true,
-  "projectFilePath": "C:\\Integrador\\QuediosaBack\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\Integrador\\QuediosaBack\\BackQueDiosa\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
