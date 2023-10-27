@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackQueDiosa", "BackQueDiosa\BackQueDiosa.csproj", "{20E240AE-DBA9-4812-BD81-16C91CA75069}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{192DECFB-4023-4862-AFF0-2CF7F27DD810}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{20E240AE-DBA9-4812-BD81-16C91CA75069}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20E240AE-DBA9-4812-BD81-16C91CA75069}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20E240AE-DBA9-4812-BD81-16C91CA75069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{192DECFB-4023-4862-AFF0-2CF7F27DD810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192DECFB-4023-4862-AFF0-2CF7F27DD810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192DECFB-4023-4862-AFF0-2CF7F27DD810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192DECFB-4023-4862-AFF0-2CF7F27DD810}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
