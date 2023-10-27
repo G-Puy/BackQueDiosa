@@ -1,6 +1,6 @@
 ﻿namespace DTOS
 {
-    public class Class1
+    public class DTOCategoria
     {
 
     }
