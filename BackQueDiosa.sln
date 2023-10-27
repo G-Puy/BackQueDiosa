@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackQueDiosa", "BackQueDiosa\BackQueDiosa.csproj", "{20E240AE-DBA9-4812-BD81-16C91CA75069}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackQueDiosa", "BackQueDiosa\BackQueDiosa.csproj", "{20E240AE-DBA9-4812-BD81-16C91CA75069}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{192DECFB-4023-4862-AFF0-2CF7F27DD810}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dominio", "Dominio\Dominio.csproj", "{192DECFB-4023-4862-AFF0-2CF7F27DD810}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DTOS", "DTOS\DTOS.csproj", "{52A57470-7F65-4690-AFF6-D3773D81C9AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{192DECFB-4023-4862-AFF0-2CF7F27DD810}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{192DECFB-4023-4862-AFF0-2CF7F27DD810}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{192DECFB-4023-4862-AFF0-2CF7F27DD810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A57470-7F65-4690-AFF6-D3773D81C9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A57470-7F65-4690-AFF6-D3773D81C9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A57470-7F65-4690-AFF6-D3773D81C9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A57470-7F65-4690-AFF6-D3773D81C9AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
