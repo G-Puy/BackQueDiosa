@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\init2\\BackQueDiosa\\BackQueDiosa.csproj": {}
+    "C:\\Integrador\\QuediosaBack\\BackQueDiosa\\BackQueDiosa.csproj": {}
   },
   "projects": {
-    "C:\\init2\\BackQueDiosa\\BackQueDiosa.csproj": {
+    "C:\\Integrador\\QuediosaBack\\BackQueDiosa\\BackQueDiosa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\init2\\BackQueDiosa\\BackQueDiosa.csproj",
+        "projectUniqueName": "C:\\Integrador\\QuediosaBack\\BackQueDiosa\\BackQueDiosa.csproj",
         "projectName": "BackQueDiosa",
-        "projectPath": "C:\\init2\\BackQueDiosa\\BackQueDiosa.csproj",
-        "packagesPath": "C:\\Users\\Puppo\\.nuget\\packages\\",
-        "outputPath": "C:\\init2\\BackQueDiosa\\obj\\",
+        "projectPath": "C:\\Integrador\\QuediosaBack\\BackQueDiosa\\BackQueDiosa.csproj",
+        "packagesPath": "C:\\Users\\puppo\\.nuget\\packages\\",
+        "outputPath": "C:\\Integrador\\QuediosaBack\\BackQueDiosa\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Puppo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\puppo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

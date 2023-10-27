@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pqJm5hhb4FZymuTv95Qje/3QELdcNZdxSIXC4jSq/FBMpIprq7MkpqPO9YsxUcLa40rFcDoA1iksy7woObFHcg==",
+  "dgSpecHash": "sZM9y8vm1stcNzPXQCyV+iWHeqppmNwdQa5vRbHIseAVKn6PV7Qa3HH5XYzx1IMdaQ9zHRz8towtzTZQUgcThg==",
   "success": true,
-  "projectFilePath": "C:\\init2\\DTOS\\DTOS.csproj",
+  "projectFilePath": "C:\\Integrador\\QuediosaBack\\DTOS\\DTOS.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
