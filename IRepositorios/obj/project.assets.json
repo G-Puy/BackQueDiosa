@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\init2\\DTOS\\DTOS.csproj",
-      "projectName": "DTOS",
-      "projectPath": "C:\\init2\\DTOS\\DTOS.csproj",
+      "projectUniqueName": "C:\\init2\\IRepositorios\\IRepositorios.csproj",
+      "projectName": "IRepositorios",
+      "projectPath": "C:\\init2\\IRepositorios\\IRepositorios.csproj",
       "packagesPath": "C:\\Users\\Puppo\\.nuget\\packages\\",
-      "outputPath": "C:\\init2\\DTOS\\obj\\",
+      "outputPath": "C:\\init2\\IRepositorios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Puppo\\AppData\\Roaming\\NuGet\\NuGet.Config",
