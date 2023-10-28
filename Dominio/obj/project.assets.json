@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Integrador\\BackQuediosa\\Dominio\\4- Dominio.csproj",
-      "projectName": "4- Dominio",
-      "projectPath": "C:\\Integrador\\BackQuediosa\\Dominio\\4- Dominio.csproj",
+      "projectUniqueName": "C:\\Integrador\\BackQuediosa\\Dominio\\4-Dominio.csproj",
+      "projectName": "4-Dominio",
+      "projectPath": "C:\\Integrador\\BackQuediosa\\Dominio\\4-Dominio.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
       "outputPath": "C:\\Integrador\\BackQuediosa\\Dominio\\obj\\",
       "projectStyle": "PackageReference",

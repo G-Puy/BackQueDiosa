@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Integrador\\BackQuediosa\\DTOS\\4- DTOS.csproj",
-      "projectName": "4- DTOS",
-      "projectPath": "C:\\Integrador\\BackQuediosa\\DTOS\\4- DTOS.csproj",
+      "projectUniqueName": "C:\\Integrador\\BackQuediosa\\DTOS\\4-DTOS.csproj",
+      "projectName": "4-DTOS",
+      "projectPath": "C:\\Integrador\\BackQuediosa\\DTOS\\4-DTOS.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
       "outputPath": "C:\\Integrador\\BackQuediosa\\DTOS\\obj\\",
       "projectStyle": "PackageReference",

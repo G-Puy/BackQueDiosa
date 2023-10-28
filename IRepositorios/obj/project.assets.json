@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Integrador\\BackQuediosa\\IRepositorios\\2- IRepositorios.csproj",
-      "projectName": "2- IRepositorios",
-      "projectPath": "C:\\Integrador\\BackQuediosa\\IRepositorios\\2- IRepositorios.csproj",
+      "projectUniqueName": "C:\\Integrador\\BackQuediosa\\IRepositorios\\2-IRepositorios.csproj",
+      "projectName": "2-IRepositorios",
+      "projectPath": "C:\\Integrador\\BackQuediosa\\IRepositorios\\2-IRepositorios.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
       "outputPath": "C:\\Integrador\\BackQuediosa\\IRepositorios\\obj\\",
       "projectStyle": "PackageReference",

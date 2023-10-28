@@ -443,9 +443,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Integrador\\BackQuediosa\\BackQueDiosa\\1- WepApiQueDiosa.csproj",
-      "projectName": "1- WepApiQueDiosa",
-      "projectPath": "C:\\Integrador\\BackQuediosa\\BackQueDiosa\\1- WepApiQueDiosa.csproj",
+      "projectUniqueName": "C:\\Integrador\\BackQuediosa\\BackQueDiosa\\1-WepApiQueDiosa.csproj",
+      "projectName": "1-WepApiQueDiosa",
+      "projectPath": "C:\\Integrador\\BackQuediosa\\BackQueDiosa\\1-WepApiQueDiosa.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
       "outputPath": "C:\\Integrador\\BackQuediosa\\BackQueDiosa\\obj\\",
       "projectStyle": "PackageReference",
