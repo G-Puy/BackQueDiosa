@@ -14,8 +14,6 @@ namespace Dominio.Entidades
         public double PrecioActual { get; set; } = 0;
         public double PrecioAnterior { get; set; } = 0;
         public long IdTipoProducto { get; set; } = 0;
-        public long IdTalle { get; set; } = 0;
-        public long IdColor { get; set; } = 0;
         public bool VisibleEnWeb { get; set; } = false;
         public bool Nuevo { get; set; } = false;
         public bool BajaLogica { get; set; } = false;

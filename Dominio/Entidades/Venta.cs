@@ -12,6 +12,6 @@ namespace Dominio.Entidades
         public double MontoTotal { get; set; } = 0;
         public string NombreComprador { get; set; } = "";
         public string CorreoComprador { get; set; } = "";
-        public List<Producto> ProductosVendidos { get; set; } = List<Producto>();
+        public List<Producto> ProductosVendidos { get; set; } = new List<Producto>();
     }
 }
